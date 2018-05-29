@@ -1,0 +1,32 @@
+SRCSRV: ini ------------------------------------------------
+VERSION=2
+SRCSRV: variables ------------------------------------------
+RAWURL=https://github.com/bawkee/SqlBinder/14e3060d874a957d7f6262ef1af3621d8a2e00bd/%var2%
+SRCSRVVERCTRL=https
+SRCSRVTRG=%RAWURL%
+SRCSRV: source files ---------------------------------------
+c:\users\bsala\source\repos\sqlbinder\source\sqlbinder\condition.cs*Source/SqlBinder/Condition.cs
+c:\users\bsala\source\repos\sqlbinder\source\sqlbinder\conditionvalue.cs*Source/SqlBinder/ConditionValue.cs
+c:\users\bsala\source\repos\sqlbinder\source\sqlbinder\conditionvalues\boolvalue.cs*Source/SqlBinder/ConditionValues/BoolValue.cs
+c:\users\bsala\source\repos\sqlbinder\source\sqlbinder\conditionvalues\datevalue.cs*Source/SqlBinder/ConditionValues/DateValue.cs
+c:\users\bsala\source\repos\sqlbinder\source\sqlbinder\conditionvalues\numbervalue.cs*Source/SqlBinder/ConditionValues/NumberValue.cs
+c:\users\bsala\source\repos\sqlbinder\source\sqlbinder\conditionvalues\stringvalue.cs*Source/SqlBinder/ConditionValues/StringValue.cs
+c:\users\bsala\source\repos\sqlbinder\source\sqlbinder\dbquery.cs*Source/SqlBinder/DbQuery.cs
+c:\users\bsala\source\repos\sqlbinder\source\sqlbinder\parsing\sqlbinderparser.cs*Source/SqlBinder/Parsing/SqlBinderParser.cs
+c:\users\bsala\source\repos\sqlbinder\source\sqlbinder\parsing\sqlbinderprocessor.cs*Source/SqlBinder/Parsing/SqlBinderProcessor.cs
+c:\users\bsala\source\repos\sqlbinder\source\sqlbinder\parsing\tokens\basetokens.cs*Source/SqlBinder/Parsing/Tokens/BaseTokens.cs
+c:\users\bsala\source\repos\sqlbinder\source\sqlbinder\parsing\tokens\bindvariableparameter.cs*Source/SqlBinder/Parsing/Tokens/BindVariableParameter.cs
+c:\users\bsala\source\repos\sqlbinder\source\sqlbinder\parsing\tokens\doublequoteliteral.cs*Source/SqlBinder/Parsing/Tokens/DoubleQuoteLiteral.cs
+c:\users\bsala\source\repos\sqlbinder\source\sqlbinder\parsing\tokens\oracleaqmliteral.cs*Source/SqlBinder/Parsing/Tokens/OracleAQMLiteral.cs
+c:\users\bsala\source\repos\sqlbinder\source\sqlbinder\parsing\tokens\postgredoubledollarliteral.cs*Source/SqlBinder/Parsing/Tokens/PostgreDoubleDollarLiteral.cs
+c:\users\bsala\source\repos\sqlbinder\source\sqlbinder\parsing\tokens\scope.cs*Source/SqlBinder/Parsing/Tokens/Scope.cs
+c:\users\bsala\source\repos\sqlbinder\source\sqlbinder\parsing\tokens\scopeseparator.cs*Source/SqlBinder/Parsing/Tokens/ScopeSeparator.cs
+c:\users\bsala\source\repos\sqlbinder\source\sqlbinder\parsing\tokens\singlequoteliteral.cs*Source/SqlBinder/Parsing/Tokens/SingleQuoteLiteral.cs
+c:\users\bsala\source\repos\sqlbinder\source\sqlbinder\parsing\tokens\sql.cs*Source/SqlBinder/Parsing/Tokens/Sql.cs
+c:\users\bsala\source\repos\sqlbinder\source\sqlbinder\parsing\tokens\sqlbindercomment.cs*Source/SqlBinder/Parsing/Tokens/SqlBinderComment.cs
+c:\users\bsala\source\repos\sqlbinder\source\sqlbinder\parsing\tokens\sqlbinderparameter.cs*Source/SqlBinder/Parsing/Tokens/SqlBinderParameter.cs
+c:\users\bsala\source\repos\sqlbinder\source\sqlbinder\parsing\tokens\sqlcomment.cs*Source/SqlBinder/Parsing/Tokens/SqlComment.cs
+c:\users\bsala\source\repos\sqlbinder\source\sqlbinder\properties\exceptions.designer.cs*Source/SqlBinder/Properties/Exceptions.Designer.cs
+c:\users\bsala\source\repos\sqlbinder\source\sqlbinder\properties\resources.designer.cs*Source/SqlBinder/Properties/Resources.Designer.cs
+c:\users\bsala\source\repos\sqlbinder\source\sqlbinder\query.cs*Source/SqlBinder/Query.cs
+SRCSRV: end ------------------------------------------------
